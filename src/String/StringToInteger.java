@@ -20,6 +20,12 @@ package String;
 
 public class StringToInteger {
 	
+	
+	/**
+	 * Refactor switch case it is very ugly.
+	 * @param str
+	 * @return
+	 */
 	public int myAtoi(String str){
 		str = str.trim();
 		if(str.length() == 0)
