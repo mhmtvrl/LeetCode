@@ -2,6 +2,8 @@ package Queue;
 
 import java.util.Stack;
 
+
+//http://www.geeksforgeeks.org/queue-using-stacks/
 public class ImplementQueueUsingStacks {
 	private Stack<Integer> inbox = new Stack<Integer>();
     private Stack<Integer> outbox = new Stack<Integer>();

@@ -3,6 +3,8 @@ package Stack;
 import java.util.LinkedList;
 import java.util.Queue;
 
+
+//http://stackoverflow.com/questions/688276/implement-stack-using-two-queues
 public class ImplementStackUsingQueues {
 	Queue<Integer> queue1 = new LinkedList<Integer>();
 	Queue<Integer> queue2 = new LinkedList<Integer>();
