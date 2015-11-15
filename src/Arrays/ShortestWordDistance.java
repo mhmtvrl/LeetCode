@@ -34,7 +34,7 @@ public class ShortestWordDistance {
 	 * 
 	 * Don't copy this solution
 	 * 
-	 * http://comproguide.blogspot.com/2013/12/minimum-difference-between-two-sorted.html
+	 * http://www.cnblogs.com/jcliBlogger/p/4704962.html
 	 * @param words
 	 * @param word1
 	 * @param word2
